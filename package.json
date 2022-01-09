@@ -2,7 +2,7 @@
   "name": "clcltr",
   "version": "1.0.1",
   "description": "calculator for javascript",
-  "main": "index.js",
+  "main": "lib/clcltr.js",
   "scripts": {
     "test": "test"
   },
@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/edbond88/clcltr.git"
   },
-  "author": "edbond88@gmail.com",
+  "bugs": {
+    "url": "https://github.com/edbond88/clcltr/issues"
+  },
+  "types": "./index.d.ts",
+  "author": "Ed Bond <edbond88@gmail.com>",
   "license": "MIT",
   "type": "module"
 }
