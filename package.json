@@ -1,6 +1,6 @@
 {
   "name": "clcltr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculator for javascript",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_Git_USERNAME/awesome-npm.git"
+    "url": "git+https://github.com/edbond88/clcltr.git"
   },
   "author": "edbond88@gmail.com",
   "license": "MIT",
