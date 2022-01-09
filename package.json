@@ -1,0 +1,19 @@
+{
+  "name": "clcltr",
+  "version": "1.0.0",
+  "description": "calculator for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_Git_USERNAME/awesome-npm.git"
+  },
+  "author": "edbond88@gmail.com",
+  "license": "MIT",
+  "type": "module"
+}
